@@ -1,0 +1,30 @@
+PODS:
+  - DGCharts (5.1.0):
+    - DGCharts/Core (= 5.1.0)
+  - DGCharts/Core (5.1.0)
+  - SnapKit (5.7.1)
+  - Starscream (4.0.8)
+  - SwiftyJSON (5.0.2)
+
+DEPENDENCIES:
+  - DGCharts
+  - SnapKit
+  - Starscream
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - DGCharts
+    - SnapKit
+    - Starscream
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  DGCharts: 1c6daf585b6cfc78807af44ea690d357c410627f
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  Starscream: 19b5533ddb925208db698f0ac508a100b884a1b9
+  SwiftyJSON: f5b1bf1cd8dd53cd25887ac0eabcfd92301c6a5a
+
+PODFILE CHECKSUM: 3a8f0c20bf44a24bd2b88d7a5c381fbedd018164
+
+COCOAPODS: 1.15.2
